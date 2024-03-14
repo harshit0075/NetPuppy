@@ -10,7 +10,8 @@ Tula's Institute is a leading private engineering and management institute locat
 ## Features![Screenshot 2024-03-14 101035](https://github.com/harshit0075/NetPuppy/assets/112869167/97b5e181-225f-4281-b11c-8a9e346ed670)
 
 ![Screenshot 2024-03-14 101105](https://github.com/harshit0075/NetPuppy/assets/112869167/12fb20b7-5850-48d6-8f6f-1c5df96114d2)
-![Uploading Screenshot 2024-03-14 101125.png…]()
+
+![Screenshot 2024-03-14 101125](https://github.com/harshit0075/NetPuppy/assets/112869167/50a65e43-daeb-4f16-9e5e-94f6c001b23a)
 
 - Modern and responsive user interface
 - Easy navigation and intuitive design
