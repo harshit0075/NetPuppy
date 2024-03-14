@@ -44,6 +44,8 @@ Push to the branch (git push origin feature/YourFeature).
 Open a pull request.
 Please ensure that your pull request adheres to the code standards of the project and includes relevant details about the changes made.
 
+Deployment
+This project is deployed and can be accessed at the following link: https://verdant-cheesecake-cc5a5c.netlify.app/
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
