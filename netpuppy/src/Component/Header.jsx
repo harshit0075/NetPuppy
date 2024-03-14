@@ -1,5 +1,5 @@
 import React from "react";
-import { Flex, Box, Heading, Text, Image, Button } from "@chakra-ui/react";
+import { Flex, Box, Heading, Text, Image,} from "@chakra-ui/react";
 import horse from "../../src/Assets/horse.svg";
 import swim from "../../src/Assets/swimming.svg";
 import taek from "../../src/Assets/taekwondo.svg";
@@ -14,10 +14,10 @@ const Header = () => {
     <Flex height="958px">
       {/* Left Div */}
       <Box width="51%" id="left-div">
-        <Box width="636px" height="134px" marginTop="78px">
+        <Box width="636px" height="134px" marginTop="78px" marginLeft={"40px"} >
           <Image src={context} alt="context" />
         </Box>
-        <Box width="426px" height="48px" marginTop="14px">
+        <Box width="426px" height="48px" marginTop="14px" marginLeft={"40px"}>
           <Image src={context2} alt="context2" />
         </Box>
         <Flex

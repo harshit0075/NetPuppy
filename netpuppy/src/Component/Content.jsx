@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Heading, Text, Flex, Image, Button } from "@chakra-ui/react";
+import { Box, Heading, Text, Flex, Image,} from "@chakra-ui/react";
 import women from "../../src/Assets/women.svg";
 import arrow from "../../src/Assets/arrow.png";
 

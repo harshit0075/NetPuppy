@@ -5,6 +5,8 @@ import Video from "../Component/Video";
 import Content from "../Component/Content";
 import Management from "../Component/Management";
 import Header from "../Component/Header";
+import Middle from "../Component/Middle";
+import Bottom from "../Component/Bottom";
 
 const HomePage = () => {
   return (
@@ -18,7 +20,8 @@ const HomePage = () => {
         <Content />
         <Management />
         <Container>
-          <div>Container</div>
+          <Middle/>
+          <Bottom/>
         </Container>
       </Container>
     </Container>
