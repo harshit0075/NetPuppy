@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Tula's Institute Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Tula's Institute Website repository! This React application is built using Chakra UI React framework. Below you'll find essential information to get started with the project.
 
-## Available Scripts
+## About Tula's Institute
 
-In the project directory, you can run:
+Tula's Institute is a leading private engineering and management institute located in Dehradun, India. This website aims to showcase the institute's programs, facilities, faculty, and various other aspects to prospective students and stakeholders.
+![Screenshot 2024-03-14 101013](https://github.com/harshit0075/NetPuppy/assets/112869167/4601f5a0-c83e-4db6-a845-8376ec21d249)
 
-### `npm start`
+## Features![Screenshot 2024-03-14 101035](https://github.com/harshit0075/NetPuppy/assets/112869167/97b5e181-225f-4281-b11c-8a9e346ed670)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Screenshot 2024-03-14 101105](https://github.com/harshit0075/NetPuppy/assets/112869167/12fb20b7-5850-48d6-8f6f-1c5df96114d2)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot 2024-03-14 101125](https://github.com/harshit0075/NetPuppy/assets/112869167/50a65e43-daeb-4f16-9e5e-94f6c001b23a)
 
-### `npm test`
+- Modern and responsive user interface
+- Easy navigation and intuitive design
+- Information about programs, faculty, facilities, and events
+- Interactive components for engaging user experience
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+- React.js
+- Chakra UI
+- HTML5
+- CSS3
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To get a local copy of this project up and running follow these simple steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/harshit0075/NetPuppy.git
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Fork the project.
+Create your feature branch (git checkout -b feature/YourFeature).
+Commit your changes (git commit -am 'Add some feature').
+Push to the branch (git push origin feature/YourFeature).
+Open a pull request.
+Please ensure that your pull request adheres to the code standards of the project and includes relevant details about the changes made.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Deployment
+This project is deployed and can be accessed at the following link: https://65f292d0723a5a8114b0b4ba--subtle-youtiao-34e4a3.netlify.app/
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
