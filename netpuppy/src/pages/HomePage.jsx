@@ -20,8 +20,8 @@ const HomePage = () => {
         <Content />
         <Management />
         <Container>
-          <Middle/>
-          <Bottom/>
+          <Middle />
+          <Bottom />
         </Container>
       </Container>
     </Container>

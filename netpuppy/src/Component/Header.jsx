@@ -12,7 +12,6 @@ import rectangle from "../../src/Assets/Rectangle 19.svg";
 const Header = () => {
   return (
     <Flex height="958px">
-      {/* Left Div */}
       <Box width="51%" id="left-div">
         <Box width="636px" height="134px" marginTop="78px" marginLeft={"40px"} >
           <Image src={context} alt="context" />
